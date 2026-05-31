@@ -1,9 +1,7 @@
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Sagar Gahlyan</h1>
 
-<h3 align="center">
-Data Enthusiast | Machine Learning Developer | Turning Data into Decisions
-</h3>
+
 
 <br>
 
